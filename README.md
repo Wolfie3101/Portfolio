@@ -6,4 +6,5 @@ I'm currently working on the udemy's course (https://www.udemy.com/course/the-co
 
 The TinDog and the drum kit are from the course which show knowledge from Bootstrap and JS.
 The rock paper scissors game I made for fun to show off JS.
+More projects are going to be uploaded.
 
